@@ -1,0 +1,11 @@
+body {
+    margin: 2px;
+    overflow: hidden;
+    background: #010013;
+}
+  
+div {
+    display: flex;
+    height: 95vh;
+    width: inherit;
+}
